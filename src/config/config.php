@@ -2,44 +2,44 @@
 
 $config['db'] = [
     'default' => [
-        'host' => '10.5.21.50',
+        'host' => '10.1.1.1',
         'port' => '3306',
         'prefix' => 'dzz_',
-        'userName' => 'c919_test',
-        'password' => 'comac.2021',
-        'dbName' => 'c919_test'
+        'userName' => '122',
+        'password' => '123',
+        'dbName' => '123'
     ],
     'c919' => [
         'host' => '127.0.0.1',
         'port' => '3306',
         'prefix' => 'dzz_',
         'userName' => 'root',
-        'password' => 'comac2020xiaozhu123',
-        'dbName' => 'c919_digital'
+        'password' => '1',
+        'dbName' => '1'
     ],
     'magicflufile' => [
-        'host' => '10.5.21.50',
+        'host' => '10.5.1.1',
         'port' => '3306',
         'prefix' => 'dzz_',
-        'userName' => 'c919_test',
-        'password' => 'comac.2021',
-        'dbName' => 'c919_magicflufile'
+        'userName' => '1',
+        'password' => '2',
+        'dbName' => '1'
     ],
     'magicflu' => [
-        'host' => '10.5.21.50',
+        'host' => '10.5.1.1',
         'port' => '3306',
         'prefix' => 'dzz_',
-        'userName' => 'c919_test',
-        'password' => 'comac.2021',
-        'dbName' => 'c919_magicflu'
+        'userName' => '1',
+        'password' => '1',
+        'dbName' => '1'
     ],
     'c919_hufu'=>[
-        'host' => '10.5.21.50',
+        'host' => '10.5.1.1',
         'port' => '3306',
         'prefix' => 'dzz_',
-        'dbName' => 'c919_hufu',
-        'userName' => 'c919_test',
-        'password' => 'comac.2021'
+        'dbName' => '1',
+        'userName' => '1',
+        'password' => '1'
 
     ]
 
