@@ -1,10 +1,10 @@
 {
-    "name": "administrator/p-batis",
+    "name": "miaomiao1992/pbatis",
     "description": "pdo",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Administrator\\PBatis\\": "src/"
+            "pbatis\\": "src/"
         }
     },
     "authors": [
