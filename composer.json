@@ -1,0 +1,17 @@
+{
+    "name": "administrator/p-batis",
+    "description": "pdo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\PBatis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YangCheng",
+            "email": "644284807@qq.com"
+        }
+    ],
+    "require": {}
+}
