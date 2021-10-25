@@ -1,18 +1,19 @@
 {
-    "name": "miaomiao1992/pbatis",
-    "description": "pdo",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "pbatis\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "YangCheng",
-            "email": "644284807@qq.com"
-        }
-    ],
-    "require": {
-     "php": ">=7.3.0" }
+  "name": "miaomiao1992/pbatis",
+  "description": "pdo",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "pbatis\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "YangCheng",
+      "email": "644284807@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.0"
+  }
 }
